@@ -1,3 +1,4 @@
 # Kokoa Clone 2021 Update
 
-Hi, I am Kina
+I am Kina
+This is my first project
